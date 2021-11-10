@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\WebApplication1\\WebApplication.csproj": {}
+    "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication.csproj": {}
   },
   "projects": {
-    "D:\\c#\\WebApplication1\\WebApplication.csproj": {
+    "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\WebApplication1\\WebApplication.csproj",
+        "projectUniqueName": "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "D:\\c#\\WebApplication1\\WebApplication.csproj",
+        "projectPath": "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\jwzhe\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\WebApplication1\\obj\\",
+        "outputPath": "D:\\c#\\NetCoreTest\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jwzhe\\AppData\\Roaming\\NuGet\\NuGet.Config",

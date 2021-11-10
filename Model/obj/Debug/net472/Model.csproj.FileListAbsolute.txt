@@ -1,0 +1,9 @@
+D:\c#\NetCoreTest\Model\bin\Debug\net472\Model.dll
+D:\c#\NetCoreTest\Model\bin\Debug\net472\Model.pdb
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.csprojAssemblyReference.cache
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.AssemblyInfoInputs.cache
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.AssemblyInfo.cs
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.csproj.CoreCompileInputs.cache
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.dll
+D:\c#\NetCoreTest\Model\obj\Debug\net472\Model.pdb
+D:\c#\NetCoreTest\Model\bin\Debug\net472\Model.xml

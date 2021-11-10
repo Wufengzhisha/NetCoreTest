@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Model\\Model.csproj": {}
+    "D:\\c#\\NetCoreTest\\Model\\Model.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Model\\Model.csproj": {
+    "D:\\c#\\NetCoreTest\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\c#\\NetCoreTest\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\c#\\Model\\Model.csproj",
+        "projectPath": "D:\\c#\\NetCoreTest\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\jwzhe\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Model\\obj\\",
+        "outputPath": "D:\\c#\\NetCoreTest\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jwzhe\\AppData\\Roaming\\NuGet\\NuGet.Config",

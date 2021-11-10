@@ -982,6 +982,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -4156,12 +4166,18 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.DotNet.PlatformAbstractions >= 3.1.6",
       "Microsoft.EntityFrameworkCore.Tools.DotNet >= 2.0.2",
+      "Model >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -4171,11 +4187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\WebApplication1\\WebApplication.csproj",
-      "projectName": "WebApplication",
-      "projectPath": "D:\\c#\\WebApplication1\\WebApplication.csproj",
+      "projectUniqueName": "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\jwzhe\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\WebApplication1\\obj\\",
+      "outputPath": "D:\\c#\\NetCoreTest\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jwzhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4191,7 +4207,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\c#\\NetCoreTest\\Model\\Model.csproj": {
+              "projectPath": "D:\\c#\\NetCoreTest\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

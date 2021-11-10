@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "snLV2CsAzEWq5ERJODGyJnobmRw5f5+CSbslHbKtbD5TO64WT5EajKfJZk+9OqpTHjwRBMjIBv5HJiQ/L3xqiQ==",
+  "dgSpecHash": "SnTszidEvhqoG14iTDJj5FuBKmyQdr94V6CuBJn2LkLETwXnElA/JQTO/m1ow7ayQGDAMyCN9RpMhY24G77MBw==",
   "success": true,
-  "projectFilePath": "D:\\c#\\WebApplication1\\WebApplication.csproj",
+  "projectFilePath": "D:\\c#\\NetCoreTest\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jwzhe\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\jwzhe\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
